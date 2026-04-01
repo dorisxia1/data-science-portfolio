@@ -1,0 +1,4 @@
+severity_tier,mean_difference_highBlack_minus_lowBlack_seconds,median_difference_highBlack_minus_lowBlack_seconds
+High,35.3011465438297,32.0
+Low,132.41611364513813,81.0
+Medium,61.08888148035135,43.0
