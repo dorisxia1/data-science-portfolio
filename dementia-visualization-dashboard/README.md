@@ -2,6 +2,8 @@
 
 > An interactive Vue.js dashboard for exploring geographic disparities in dementia prevalence and associated risk factors across the United States.
 
+Live Demo: https://dsci-554.github.io/project-vizrd/
+
 ---
 
 ## Overview
