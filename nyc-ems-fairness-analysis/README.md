@@ -157,7 +157,7 @@ pip install -r requirements.txt
 
 ## Paper
 
-Full report: [midterm_report.pdf](midterm_report.pdf)
+Full report: [final_report.pdf](final_report.pdf)
 
 ---
 
