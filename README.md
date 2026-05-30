@@ -41,4 +41,3 @@ Designed a choropleth map with a custom "Mismatch Index" to highlight regions wh
 ## Notes
 
 * Projects include both individual and team-based work.
-* Contributions for each project are documented in their respective folders.
