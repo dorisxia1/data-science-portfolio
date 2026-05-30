@@ -177,16 +177,6 @@ python chatdb_app.py
 
 ---
 
-## My Contributions
-
-* Implemented the MongoDB backend and data pipeline
-* Designed NoSQL schema for wage-by-education data
-* Structured data into `wages_overall`, `wages_gender`, and `wages_race` collections
-* Integrated MongoDB query execution into the unified system
-* Collaborated on combining SQL and NoSQL workflows into a single natural language interface
-
----
-
 ## Notes
 
 * Requires local MySQL and MongoDB instances
