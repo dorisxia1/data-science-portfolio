@@ -187,13 +187,6 @@ python chatdb_app.py
 
 ---
 
-## 📄 Report
-
-Full report:
-👉 [Final Report](reports/final_report.pdf)
-
----
-
 ## Notes
 
 * Requires local MySQL and MongoDB instances
