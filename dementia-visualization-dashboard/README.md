@@ -44,6 +44,8 @@ My primary contributions focused on the **Mismatch Index pipeline and visualizat
   * cognitive disability rate
 * Designed interaction and visual encoding to highlight geographic disparities
 
+<img width="2746" height="1108" alt="image" src="https://github.com/user-attachments/assets/d8ae3bd0-48a1-473d-8647-b43cd2161dc9" />
+
 ---
 
 ## Key Files (My Work)
